@@ -1,7 +1,9 @@
-package com.zzg.tracing;
+package com.zzg.tracing.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.zzg.tracing.R;
 
 public class MainActivity extends AppCompatActivity {
 
